@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson2</string>
+    <string name="login_hint">Введите логин:</string>
+    <string name="hint_password">Введите пароль:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
